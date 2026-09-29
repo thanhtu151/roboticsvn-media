@@ -1,0 +1,74 @@
+{
+ "balance_v1.mp4": {
+  "file": "tt/balance_v1.mp4",
+  "cover_ms": 44266
+ },
+ "encoder_v1.mp4": {
+  "file": "tt/encoder_v1.mp4",
+  "cover_ms": 45200
+ },
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 42681
+ },
+ "pwm_v1.mp4": {
+  "file": "tt/pwm_v1.mp4",
+  "cover_ms": 48700
+ },
+ "gearbox_v1.mp4": {
+  "file": "tt/gearbox_v1.mp4",
+  "cover_ms": 37070
+ },
+ "filter_v1.mp4": {
+  "file": "tt/filter_v1.mp4",
+  "cover_ms": 38933
+ },
+ "rocket_v1.mp4": {
+  "file": "tt/rocket_v1.mp4",
+  "cover_ms": 52766
+ },
+ "imu_v1.mp4": {
+  "file": "tt/imu_v1.mp4",
+  "cover_ms": 53600
+ },
+ "arm_v1.mp4": {
+  "file": "tt/arm_v1.mp4",
+  "cover_ms": 51500
+ },
+ "singularity_v1.mp4": {
+  "file": "tt/singularity_v1.mp4",
+  "cover_ms": 49934
+ },
+ "kalman_v1.mp4": {
+  "file": "tt/kalman_v1.mp4",
+  "cover_ms": 43900
+ },
+ "inverter_v1.mp4": {
+  "file": "tt/inverter_v1.mp4",
+  "cover_ms": 47466
+ },
+ "stepper_v1.mp4": {
+  "file": "tt/stepper_v1.mp4",
+  "cover_ms": 42233
+ },
+ "elevator_v1.mp4": {
+  "file": "tt/elevator_v1.mp4",
+  "cover_ms": 48000
+ },
+ "yaw_v1.mp4": {
+  "file": "tt/yaw_v1.mp4",
+  "cover_ms": 42276
+ },
+ "drone_v1.mp4": {
+  "file": "tt/drone_v1.mp4",
+  "cover_ms": 54300
+ },
+ "laplace_v1.mp4": {
+  "file": "tt/laplace_v1.mp4",
+  "cover_ms": 50033
+ },
+ "foc_v1.mp4": {
+  "file": "tt/foc_v1.mp4",
+  "cover_ms": 48441
+ }
+}
