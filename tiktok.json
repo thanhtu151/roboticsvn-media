@@ -1,82 +1,82 @@
 {
- "pwm_v1.mp4": {
-  "file": "tt/pwm_v1.mp4",
-  "cover_ms": 48700
- },
- "washer_v1.mp4": {
-  "file": "tt/washer_v1.mp4",
-  "cover_ms": 42681
- },
- "gearbox_v1.mp4": {
-  "file": "tt/gearbox_v1.mp4",
-  "cover_ms": 37070
- },
- "tinnong_destro_v1.mp4": {
-  "file": "tt/tinnong_destro_v1.mp4",
-  "cover_ms": 40612
- },
- "arm_v1.mp4": {
-  "file": "tt/arm_v1.mp4",
-  "cover_ms": 51500
- },
- "tinnong_figure02_v1.mp4": {
-  "file": "tt/tinnong_figure02_v1.mp4",
-  "cover_ms": 45838
+ "encoder_v1.mp4": {
+  "file": "tt/encoder_v1.mp4",
+  "cover_ms": 45200
  },
  "elevator_v1.mp4": {
   "file": "tt/elevator_v1.mp4",
   "cover_ms": 48000
  },
- "balance_v1.mp4": {
-  "file": "tt/balance_v1.mp4",
-  "cover_ms": 44266
- },
- "kalman_v1.mp4": {
-  "file": "tt/kalman_v1.mp4",
-  "cover_ms": 43900
- },
- "encoder_v1.mp4": {
-  "file": "tt/encoder_v1.mp4",
-  "cover_ms": 45200
+ "yaw_v1.mp4": {
+  "file": "tt/yaw_v1.mp4",
+  "cover_ms": 42276
  },
  "rocket_v1.mp4": {
   "file": "tt/rocket_v1.mp4",
   "cover_ms": 52766
  },
- "inverter_v1.mp4": {
-  "file": "tt/inverter_v1.mp4",
-  "cover_ms": 47466
- },
- "laplace_v1.mp4": {
-  "file": "tt/laplace_v1.mp4",
-  "cover_ms": 50033
- },
- "yaw_v1.mp4": {
-  "file": "tt/yaw_v1.mp4",
-  "cover_ms": 42276
- },
- "drone_v1.mp4": {
-  "file": "tt/drone_v1.mp4",
-  "cover_ms": 54300
- },
- "stepper_v1.mp4": {
-  "file": "tt/stepper_v1.mp4",
-  "cover_ms": 42233
- },
- "imu_v1.mp4": {
-  "file": "tt/imu_v1.mp4",
-  "cover_ms": 53600
+ "gearbox_v1.mp4": {
+  "file": "tt/gearbox_v1.mp4",
+  "cover_ms": 37070
  },
  "singularity_v1.mp4": {
   "file": "tt/singularity_v1.mp4",
   "cover_ms": 49934
  },
+ "balance_v1.mp4": {
+  "file": "tt/balance_v1.mp4",
+  "cover_ms": 44266
+ },
+ "tinnong_destro_v1.mp4": {
+  "file": "tt/tinnong_destro_v1.mp4",
+  "cover_ms": 40612
+ },
  "filter_v1.mp4": {
   "file": "tt/filter_v1.mp4",
   "cover_ms": 38933
  },
+ "pwm_v1.mp4": {
+  "file": "tt/pwm_v1.mp4",
+  "cover_ms": 48700
+ },
+ "stepper_v1.mp4": {
+  "file": "tt/stepper_v1.mp4",
+  "cover_ms": 42233
+ },
  "foc_v1.mp4": {
   "file": "tt/foc_v1.mp4",
   "cover_ms": 48441
+ },
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 42681
+ },
+ "tinnong_figure02_v1.mp4": {
+  "file": "tt/tinnong_figure02_v1.mp4",
+  "cover_ms": 45838
+ },
+ "laplace_v1.mp4": {
+  "file": "tt/laplace_v1.mp4",
+  "cover_ms": 50033
+ },
+ "robot_nguoi_2026_v1.mp4": {
+  "file": "tt/robot_nguoi_2026_v1.mp4",
+  "cover_ms": 38566
+ },
+ "kalman_v1.mp4": {
+  "file": "tt/kalman_v1.mp4",
+  "cover_ms": 43900
+ },
+ "inverter_v1.mp4": {
+  "file": "tt/inverter_v1.mp4",
+  "cover_ms": 47466
+ },
+ "arm_v1.mp4": {
+  "file": "tt/arm_v1.mp4",
+  "cover_ms": 51500
+ },
+ "imu_v1.mp4": {
+  "file": "tt/imu_v1.mp4",
+  "cover_ms": 53600
  }
 }
