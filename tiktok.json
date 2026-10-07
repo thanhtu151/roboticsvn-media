@@ -78,5 +78,13 @@
  "elevator_v1.mp4": {
   "file": "tt/elevator_v1.mp4",
   "cover_ms": 48000
+ },
+ "astribot_t1_v1.mp4": {
+  "file": "tt/astribot_t1_v1.mp4",
+  "cover_ms": 44466
+ },
+ "mistral_large_4_v1.mp4": {
+  "file": "tt/mistral_large_4_v1.mp4",
+  "cover_ms": 42833
  }
 }
