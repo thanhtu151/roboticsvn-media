@@ -1,90 +1,130 @@
 {
- "filter_v1.mp4": {
-  "file": "tt/filter_v1.mp4",
-  "cover_ms": 38933
- },
- "imu_v1.mp4": {
-  "file": "tt/imu_v1.mp4",
-  "cover_ms": 53600
- },
- "robot_nguoi_2026_v1.mp4": {
-  "file": "tt/robot_nguoi_2026_v1.mp4",
-  "cover_ms": 38566
- },
- "foc_v1.mp4": {
-  "file": "tt/foc_v1.mp4",
-  "cover_ms": 48441
- },
  "yaw_v1.mp4": {
   "file": "tt/yaw_v1.mp4",
   "cover_ms": 42276
  },
- "inverter_v1.mp4": {
-  "file": "tt/inverter_v1.mp4",
-  "cover_ms": 47466
- },
- "robot_than_kinh_v1.mp4": {
-  "file": "tt/robot_than_kinh_v1.mp4",
-  "cover_ms": 48142
- },
- "encoder_v1.mp4": {
-  "file": "tt/encoder_v1.mp4",
-  "cover_ms": 45200
- },
- "tinnong_destro_v1.mp4": {
-  "file": "tt/tinnong_destro_v1.mp4",
-  "cover_ms": 40612
- },
- "washer_v1.mp4": {
-  "file": "tt/washer_v1.mp4",
-  "cover_ms": 42681
- },
- "kalman_v1.mp4": {
-  "file": "tt/kalman_v1.mp4",
-  "cover_ms": 43900
- },
- "stepper_v1.mp4": {
-  "file": "tt/stepper_v1.mp4",
-  "cover_ms": 42233
- },
- "gearbox_v1.mp4": {
-  "file": "tt/gearbox_v1.mp4",
-  "cover_ms": 37070
+ "servo_sg90_v1.mp4": {
+  "file": "tt/servo_sg90_v1.mp4",
+  "cover_ms": 44700
  },
  "pwm_v1.mp4": {
   "file": "tt/pwm_v1.mp4",
   "cover_ms": 48700
  },
- "singularity_v1.mp4": {
-  "file": "tt/singularity_v1.mp4",
-  "cover_ms": 49934
+ "gimbal_v1.mp4": {
+  "file": "tt/gimbal_v1.mp4",
+  "cover_ms": 44068
  },
- "arm_v1.mp4": {
-  "file": "tt/arm_v1.mp4",
-  "cover_ms": 51500
+ "prop_balance_v1.mp4": {
+  "file": "tt/prop_balance_v1.mp4",
+  "cover_ms": 47133
  },
- "tinnong_figure02_v1.mp4": {
-  "file": "tt/tinnong_figure02_v1.mp4",
-  "cover_ms": 45838
+ "kalman_v1.mp4": {
+  "file": "tt/kalman_v1.mp4",
+  "cover_ms": 43900
+ },
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 42681
+ },
+ "optical_flow_v1.mp4": {
+  "file": "tt/optical_flow_v1.mp4",
+  "cover_ms": 45881
+ },
+ "filter_v1.mp4": {
+  "file": "tt/filter_v1.mp4",
+  "cover_ms": 38933
+ },
+ "lipo_v1.mp4": {
+  "file": "tt/lipo_v1.mp4",
+  "cover_ms": 44708
+ },
+ "rth_v1.mp4": {
+  "file": "tt/rth_v1.mp4",
+  "cover_ms": 44400
+ },
+ "ban_tay_bo_v1.mp4": {
+  "file": "tt/ban_tay_bo_v1.mp4",
+  "cover_ms": 52966
+ },
+ "minerva_humanoids_v1.mp4": {
+  "file": "tt/minerva_humanoids_v1.mp4",
+  "cover_ms": 43172
  },
  "balance_v1.mp4": {
   "file": "tt/balance_v1.mp4",
   "cover_ms": 44266
  },
- "laplace_v1.mp4": {
-  "file": "tt/laplace_v1.mp4",
-  "cover_ms": 50033
+ "foc_v1.mp4": {
+  "file": "tt/foc_v1.mp4",
+  "cover_ms": 48441
  },
- "elevator_v1.mp4": {
-  "file": "tt/elevator_v1.mp4",
-  "cover_ms": 48000
+ "zmp_walk_v1.mp4": {
+  "file": "tt/zmp_walk_v1.mp4",
+  "cover_ms": 47600
+ },
+ "inverter_v1.mp4": {
+  "file": "tt/inverter_v1.mp4",
+  "cover_ms": 47466
+ },
+ "drone_recap_v1.mp4": {
+  "file": "tt/drone_recap_v1.mp4",
+  "cover_ms": 44633
  },
  "astribot_t1_v1.mp4": {
   "file": "tt/astribot_t1_v1.mp4",
   "cover_ms": 44466
  },
+ "droneshow_v1.mp4": {
+  "file": "tt/droneshow_v1.mp4",
+  "cover_ms": 44733
+ },
+ "hold_altitude_v1.mp4": {
+  "file": "tt/hold_altitude_v1.mp4",
+  "cover_ms": 44772
+ },
+ "prop_size_v1.mp4": {
+  "file": "tt/prop_size_v1.mp4",
+  "cover_ms": 43933
+ },
+ "servo_arduino_v1.mp4": {
+  "file": "tt/servo_arduino_v1.mp4",
+  "cover_ms": 45774
+ },
+ "gearbox_v1.mp4": {
+  "file": "tt/gearbox_v1.mp4",
+  "cover_ms": 37070
+ },
+ "tailrotor_v1.mp4": {
+  "file": "tt/tailrotor_v1.mp4",
+  "cover_ms": 43900
+ },
+ "follow_me_v1.mp4": {
+  "file": "tt/follow_me_v1.mp4",
+  "cover_ms": 46137
+ },
+ "regen_brake_v1.mp4": {
+  "file": "tt/regen_brake_v1.mp4",
+  "cover_ms": 45800
+ },
  "mistral_large_4_v1.mp4": {
   "file": "tt/mistral_large_4_v1.mp4",
   "cover_ms": 42833
+ },
+ "laplace_v1.mp4": {
+  "file": "tt/laplace_v1.mp4",
+  "cover_ms": 50033
+ },
+ "brushless_v1.mp4": {
+  "file": "tt/brushless_v1.mp4",
+  "cover_ms": 44772
+ },
+ "first_drone_v1.mp4": {
+  "file": "tt/first_drone_v1.mp4",
+  "cover_ms": 46244
+ },
+ "stepper_v1.mp4": {
+  "file": "tt/stepper_v1.mp4",
+  "cover_ms": 42233
  }
 }
