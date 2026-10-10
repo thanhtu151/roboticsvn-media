@@ -1,55 +1,83 @@
 {
- "optical_flow_v1.mp4": {
-  "file": "tt/optical_flow_v1.mp4",
-  "cover_ms": 45881
- },
- "laplace_v1.mp4": {
-  "file": "tt/laplace_v1.mp4",
-  "cover_ms": 50033
- },
- "laplace_de_hieu_v1.mp4": {
-  "file": "tt/laplace_de_hieu_v1.mp4",
-  "cover_ms": 55844
- },
- "drone_recap_v1.mp4": {
-  "file": "tt/drone_recap_v1.mp4",
-  "cover_ms": 44633
- },
- "servo_sg90_v1.mp4": {
-  "file": "tt/servo_sg90_v1.mp4",
-  "cover_ms": 44700
- },
- "minerva_humanoids_v1.mp4": {
-  "file": "tt/minerva_humanoids_v1.mp4",
-  "cover_ms": 43172
- },
- "pid_lab_promo_v1.mp4": {
-  "file": "tt/pid_lab_promo_v1.mp4",
-  "cover_ms": 19200
- },
- "foc_v1.mp4": {
-  "file": "tt/foc_v1.mp4",
-  "cover_ms": 48441
- },
- "washer_v1.mp4": {
-  "file": "tt/washer_v1.mp4",
-  "cover_ms": 42681
- },
- "hold_altitude_v1.mp4": {
-  "file": "tt/hold_altitude_v1.mp4",
+ "brushless_v1.mp4": {
+  "file": "tt/brushless_v1.mp4",
   "cover_ms": 44772
- },
- "astribot_t1_v1.mp4": {
-  "file": "tt/astribot_t1_v1.mp4",
-  "cover_ms": 44466
  },
  "lipo_v1.mp4": {
   "file": "tt/lipo_v1.mp4",
   "cover_ms": 44708
  },
- "prop_balance_v1.mp4": {
-  "file": "tt/prop_balance_v1.mp4",
-  "cover_ms": 47133
+ "first_drone_v1.mp4": {
+  "file": "tt/first_drone_v1.mp4",
+  "cover_ms": 46244
+ },
+ "servo_sg90_v1.mp4": {
+  "file": "tt/servo_sg90_v1.mp4",
+  "cover_ms": 44700
+ },
+ "gimbal_v1.mp4": {
+  "file": "tt/gimbal_v1.mp4",
+  "cover_ms": 44068
+ },
+ "optical_flow_v1.mp4": {
+  "file": "tt/optical_flow_v1.mp4",
+  "cover_ms": 45881
+ },
+ "laplace_pid_drone_v1.mp4": {
+  "file": "tt/laplace_pid_drone_v1.mp4",
+  "cover_ms": 57233
+ },
+ "pwm_v1.mp4": {
+  "file": "tt/pwm_v1.mp4",
+  "cover_ms": 48700
+ },
+ "astribot_t1_v1.mp4": {
+  "file": "tt/astribot_t1_v1.mp4",
+  "cover_ms": 44466
+ },
+ "minerva_humanoids_v1.mp4": {
+  "file": "tt/minerva_humanoids_v1.mp4",
+  "cover_ms": 43172
+ },
+ "yaw_v1.mp4": {
+  "file": "tt/yaw_v1.mp4",
+  "cover_ms": 42276
+ },
+ "stepper_v1.mp4": {
+  "file": "tt/stepper_v1.mp4",
+  "cover_ms": 42233
+ },
+ "zmp_walk_v1.mp4": {
+  "file": "tt/zmp_walk_v1.mp4",
+  "cover_ms": 47600
+ },
+ "pid_lab_promo_v1.mp4": {
+  "file": "tt/pid_lab_promo_v1.mp4",
+  "cover_ms": 19200
+ },
+ "regen_brake_v1.mp4": {
+  "file": "tt/regen_brake_v1.mp4",
+  "cover_ms": 45800
+ },
+ "drone_recap_v1.mp4": {
+  "file": "tt/drone_recap_v1.mp4",
+  "cover_ms": 44633
+ },
+ "droneshow_v1.mp4": {
+  "file": "tt/droneshow_v1.mp4",
+  "cover_ms": 44733
+ },
+ "hold_altitude_v1.mp4": {
+  "file": "tt/hold_altitude_v1.mp4",
+  "cover_ms": 44772
+ },
+ "prop_size_v1.mp4": {
+  "file": "tt/prop_size_v1.mp4",
+  "cover_ms": 43933
+ },
+ "laplace_de_hieu_v1.mp4": {
+  "file": "tt/laplace_de_hieu_v1.mp4",
+  "cover_ms": 55844
  },
  "mistral_large_4_v1.mp4": {
   "file": "tt/mistral_large_4_v1.mp4",
@@ -63,72 +91,36 @@
   "file": "tt/rth_v1.mp4",
   "cover_ms": 44400
  },
- "balance_v1.mp4": {
-  "file": "tt/balance_v1.mp4",
-  "cover_ms": 44266
- },
- "filter_v1.mp4": {
-  "file": "tt/filter_v1.mp4",
-  "cover_ms": 38933
- },
- "brushless_v1.mp4": {
-  "file": "tt/brushless_v1.mp4",
-  "cover_ms": 44772
- },
- "prop_size_v1.mp4": {
-  "file": "tt/prop_size_v1.mp4",
-  "cover_ms": 43933
- },
- "droneshow_v1.mp4": {
-  "file": "tt/droneshow_v1.mp4",
-  "cover_ms": 44733
- },
- "stepper_v1.mp4": {
-  "file": "tt/stepper_v1.mp4",
-  "cover_ms": 42233
- },
  "ban_tay_bo_v1.mp4": {
   "file": "tt/ban_tay_bo_v1.mp4",
   "cover_ms": 52966
- },
- "inverter_v1.mp4": {
-  "file": "tt/inverter_v1.mp4",
-  "cover_ms": 47466
- },
- "pwm_v1.mp4": {
-  "file": "tt/pwm_v1.mp4",
-  "cover_ms": 48700
  },
  "servo_arduino_v1.mp4": {
   "file": "tt/servo_arduino_v1.mp4",
   "cover_ms": 45774
  },
- "gimbal_v1.mp4": {
-  "file": "tt/gimbal_v1.mp4",
-  "cover_ms": 44068
+ "filter_v1.mp4": {
+  "file": "tt/filter_v1.mp4",
+  "cover_ms": 38933
  },
- "yaw_v1.mp4": {
-  "file": "tt/yaw_v1.mp4",
-  "cover_ms": 42276
- },
- "regen_brake_v1.mp4": {
-  "file": "tt/regen_brake_v1.mp4",
-  "cover_ms": 45800
- },
- "zmp_walk_v1.mp4": {
-  "file": "tt/zmp_walk_v1.mp4",
-  "cover_ms": 47600
+ "balance_v1.mp4": {
+  "file": "tt/balance_v1.mp4",
+  "cover_ms": 44266
  },
  "gearbox_v1.mp4": {
   "file": "tt/gearbox_v1.mp4",
   "cover_ms": 37070
  },
+ "prop_balance_v1.mp4": {
+  "file": "tt/prop_balance_v1.mp4",
+  "cover_ms": 47133
+ },
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 42681
+ },
  "tailrotor_v1.mp4": {
   "file": "tt/tailrotor_v1.mp4",
   "cover_ms": 43900
- },
- "first_drone_v1.mp4": {
-  "file": "tt/first_drone_v1.mp4",
-  "cover_ms": 46244
  }
 }
