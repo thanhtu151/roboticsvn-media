@@ -1,55 +1,87 @@
 {
- "laplace_dong_co_v1.mp4": {
-  "file": "tt/laplace_dong_co_v1.mp4",
-  "cover_ms": 52500
- },
- "gimbal_v1.mp4": {
-  "file": "tt/gimbal_v1.mp4",
-  "cover_ms": 44068
- },
- "laplace_de_hieu_v1.mp4": {
-  "file": "tt/laplace_de_hieu_v1.mp4",
-  "cover_ms": 55844
- },
- "washer_v1.mp4": {
-  "file": "tt/washer_v1.mp4",
-  "cover_ms": 42681
- },
- "athenazero_rai_v1.mp4": {
-  "file": "tt/athenazero_rai_v1.mp4",
-  "cover_ms": 59769
- },
- "mcu_gpio_v1.mp4": {
-  "file": "tt/mcu_gpio_v1.mp4",
-  "cover_ms": 52266
+ "rth_v1.mp4": {
+  "file": "tt/rth_v1.mp4",
+  "cover_ms": 44400
  },
  "regen_brake_v1.mp4": {
   "file": "tt/regen_brake_v1.mp4",
   "cover_ms": 45800
  },
+ "dk_pid_tung_khau_v1.mp4": {
+  "file": "tt/dk_pid_tung_khau_v1.mp4",
+  "cover_ms": 53000
+ },
+ "mcu_uart_i2c_v1.mp4": {
+  "file": "tt/mcu_uart_i2c_v1.mp4",
+  "cover_ms": 63801
+ },
+ "prop_balance_v1.mp4": {
+  "file": "tt/prop_balance_v1.mp4",
+  "cover_ms": 47133
+ },
+ "hold_altitude_v1.mp4": {
+  "file": "tt/hold_altitude_v1.mp4",
+  "cover_ms": 44772
+ },
+ "stepper_v1.mp4": {
+  "file": "tt/stepper_v1.mp4",
+  "cover_ms": 42233
+ },
+ "drone_recap_v1.mp4": {
+  "file": "tt/drone_recap_v1.mp4",
+  "cover_ms": 44633
+ },
  "mcu_so_sanh_v1.mp4": {
   "file": "tt/mcu_so_sanh_v1.mp4",
   "cover_ms": 67577
+ },
+ "droneshow_v1.mp4": {
+  "file": "tt/droneshow_v1.mp4",
+  "cover_ms": 44733
+ },
+ "first_drone_v1.mp4": {
+  "file": "tt/first_drone_v1.mp4",
+  "cover_ms": 46244
+ },
+ "mcu_pwm_v1.mp4": {
+  "file": "tt/mcu_pwm_v1.mp4",
+  "cover_ms": 60409
+ },
+ "mcu_adc_v1.mp4": {
+  "file": "tt/mcu_adc_v1.mp4",
+  "cover_ms": 56733
+ },
+ "optical_flow_v1.mp4": {
+  "file": "tt/optical_flow_v1.mp4",
+  "cover_ms": 45881
  },
  "filter_v1.mp4": {
   "file": "tt/filter_v1.mp4",
   "cover_ms": 38933
  },
- "zmp_walk_v1.mp4": {
-  "file": "tt/zmp_walk_v1.mp4",
-  "cover_ms": 47600
+ "balance_v1.mp4": {
+  "file": "tt/balance_v1.mp4",
+  "cover_ms": 45033
  },
- "follow_me_v1.mp4": {
-  "file": "tt/follow_me_v1.mp4",
-  "cover_ms": 46137
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 42681
  },
- "yaw_v1.mp4": {
-  "file": "tt/yaw_v1.mp4",
-  "cover_ms": 42276
+ "tailrotor_v1.mp4": {
+  "file": "tt/tailrotor_v1.mp4",
+  "cover_ms": 43900
  },
- "stepper_v1.mp4": {
-  "file": "tt/stepper_v1.mp4",
-  "cover_ms": 42233
+ "servo_arduino_v1.mp4": {
+  "file": "tt/servo_arduino_v1.mp4",
+  "cover_ms": 45774
+ },
+ "dk_vot_lo_v1.mp4": {
+  "file": "tt/dk_vot_lo_v1.mp4",
+  "cover_ms": 51333
+ },
+ "dk_dap_ung_bac_v1.mp4": {
+  "file": "tt/dk_dap_ung_bac_v1.mp4",
+  "cover_ms": 49566
  },
  "brushless_v1.mp4": {
   "file": "tt/brushless_v1.mp4",
@@ -59,128 +91,84 @@
   "file": "tt/dk_on_dinh_v1.mp4",
   "cover_ms": 58340
  },
- "tailrotor_v1.mp4": {
-  "file": "tt/tailrotor_v1.mp4",
-  "cover_ms": 43900
+ "gimbal_v1.mp4": {
+  "file": "tt/gimbal_v1.mp4",
+  "cover_ms": 44068
  },
- "first_drone_v1.mp4": {
-  "file": "tt/first_drone_v1.mp4",
-  "cover_ms": 46244
- },
- "laplace_so_sanh_v1.mp4": {
-  "file": "tt/laplace_so_sanh_v1.mp4",
-  "cover_ms": 54000
- },
- "dk_pid_tung_khau_v1.mp4": {
-  "file": "tt/dk_pid_tung_khau_v1.mp4",
-  "cover_ms": 53000
- },
- "dk_pid_lab_v1.mp4": {
-  "file": "tt/dk_pid_lab_v1.mp4",
-  "cover_ms": 53433
- },
- "gearbox_v1.mp4": {
-  "file": "tt/gearbox_v1.mp4",
-  "cover_ms": 37070
- },
- "pwm_v1.mp4": {
-  "file": "tt/pwm_v1.mp4",
-  "cover_ms": 48700
- },
- "optical_flow_v1.mp4": {
-  "file": "tt/optical_flow_v1.mp4",
-  "cover_ms": 45881
- },
- "mcu_pwm_v1.mp4": {
-  "file": "tt/mcu_pwm_v1.mp4",
-  "cover_ms": 60409
- },
- "dk_dap_ung_bac_v1.mp4": {
-  "file": "tt/dk_dap_ung_bac_v1.mp4",
-  "cover_ms": 49566
- },
- "mcu_uart_i2c_v1.mp4": {
-  "file": "tt/mcu_uart_i2c_v1.mp4",
-  "cover_ms": 63801
- },
- "servo_arduino_v1.mp4": {
-  "file": "tt/servo_arduino_v1.mp4",
-  "cover_ms": 45774
- },
- "prop_balance_v1.mp4": {
-  "file": "tt/prop_balance_v1.mp4",
-  "cover_ms": 47133
- },
- "drone_recap_v1.mp4": {
-  "file": "tt/drone_recap_v1.mp4",
-  "cover_ms": 44633
- },
- "mcu_ngat_v1.mp4": {
-  "file": "tt/mcu_ngat_v1.mp4",
-  "cover_ms": 49700
- },
- "ban_tay_bo_v1.mp4": {
-  "file": "tt/ban_tay_bo_v1.mp4",
-  "cover_ms": 52966
- },
- "rth_v1.mp4": {
-  "file": "tt/rth_v1.mp4",
-  "cover_ms": 44400
+ "follow_me_v1.mp4": {
+  "file": "tt/follow_me_v1.mp4",
+  "cover_ms": 46137
  },
  "servo_sg90_v1.mp4": {
   "file": "tt/servo_sg90_v1.mp4",
   "cover_ms": 44700
  },
- "dk_ham_truyen_v1.mp4": {
-  "file": "tt/dk_ham_truyen_v1.mp4",
-  "cover_ms": 52233
- },
- "mcu_adc_v1.mp4": {
-  "file": "tt/mcu_adc_v1.mp4",
-  "cover_ms": 56733
- },
- "dk_bode_v1.mp4": {
-  "file": "tt/dk_bode_v1.mp4",
-  "cover_ms": 61466
- },
- "hold_altitude_v1.mp4": {
-  "file": "tt/hold_altitude_v1.mp4",
-  "cover_ms": 44772
- },
- "mcu_timer_v1.mp4": {
-  "file": "tt/mcu_timer_v1.mp4",
-  "cover_ms": 55000
- },
- "laplace_lo_trinh_v1.mp4": {
-  "file": "tt/laplace_lo_trinh_v1.mp4",
-  "cover_ms": 50041
+ "yaw_v1.mp4": {
+  "file": "tt/yaw_v1.mp4",
+  "cover_ms": 42276
  },
  "lipo_v1.mp4": {
   "file": "tt/lipo_v1.mp4",
   "cover_ms": 44708
  },
- "balance_v1.mp4": {
-  "file": "tt/balance_v1.mp4",
-  "cover_ms": 44266
+ "mcu_gpio_v1.mp4": {
+  "file": "tt/mcu_gpio_v1.mp4",
+  "cover_ms": 52266
  },
- "pid_lab_promo_v1.mp4": {
-  "file": "tt/pid_lab_promo_v1.mp4",
-  "cover_ms": 19200
+ "dk_bode_v1.mp4": {
+  "file": "tt/dk_bode_v1.mp4",
+  "cover_ms": 61466
+ },
+ "dk_ham_truyen_v1.mp4": {
+  "file": "tt/dk_ham_truyen_v1.mp4",
+  "cover_ms": 52233
+ },
+ "laplace_lo_trinh_v1.mp4": {
+  "file": "tt/laplace_lo_trinh_v1.mp4",
+  "cover_ms": 50041
+ },
+ "laplace_de_hieu_v1.mp4": {
+  "file": "tt/laplace_de_hieu_v1.mp4",
+  "cover_ms": 55844
  },
  "laplace_pid_drone_v1.mp4": {
   "file": "tt/laplace_pid_drone_v1.mp4",
   "cover_ms": 57233
  },
- "droneshow_v1.mp4": {
-  "file": "tt/droneshow_v1.mp4",
-  "cover_ms": 44733
+ "mcu_timer_v1.mp4": {
+  "file": "tt/mcu_timer_v1.mp4",
+  "cover_ms": 55000
+ },
+ "dk_pid_lab_v1.mp4": {
+  "file": "tt/dk_pid_lab_v1.mp4",
+  "cover_ms": 53433
+ },
+ "zmp_walk_v1.mp4": {
+  "file": "tt/zmp_walk_v1.mp4",
+  "cover_ms": 47600
+ },
+ "laplace_dong_co_v1.mp4": {
+  "file": "tt/laplace_dong_co_v1.mp4",
+  "cover_ms": 52500
+ },
+ "laplace_so_sanh_v1.mp4": {
+  "file": "tt/laplace_so_sanh_v1.mp4",
+  "cover_ms": 54000
+ },
+ "mcu_ngat_v1.mp4": {
+  "file": "tt/mcu_ngat_v1.mp4",
+  "cover_ms": 49700
  },
  "prop_size_v1.mp4": {
   "file": "tt/prop_size_v1.mp4",
   "cover_ms": 43933
  },
- "dk_vot_lo_v1.mp4": {
-  "file": "tt/dk_vot_lo_v1.mp4",
-  "cover_ms": 51333
+ "athenazero_rai_v1.mp4": {
+  "file": "tt/athenazero_rai_v1.mp4",
+  "cover_ms": 59769
+ },
+ "gearbox_v1.mp4": {
+  "file": "tt/gearbox_v1.mp4",
+  "cover_ms": 37070
  }
 }
