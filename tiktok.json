@@ -1,71 +1,115 @@
 {
- "gimbal_v1.mp4": {
-  "file": "tt/gimbal_v1.mp4",
-  "cover_ms": 44700
+ "dk_on_dinh_v1.mp4": {
+  "file": "tt/dk_on_dinh_v1.mp4",
+  "cover_ms": 58340
  },
- "dk_pid_lab_v1.mp4": {
-  "file": "tt/dk_pid_lab_v1.mp4",
-  "cover_ms": 53433
+ "mcu_timer_v1.mp4": {
+  "file": "tt/mcu_timer_v1.mp4",
+  "cover_ms": 55000
  },
- "mcu_uart_i2c_v1.mp4": {
-  "file": "tt/mcu_uart_i2c_v1.mp4",
-  "cover_ms": 63801
+ "dk_bode_v1.mp4": {
+  "file": "tt/dk_bode_v1.mp4",
+  "cover_ms": 61466
  },
- "servo_arduino_v1.mp4": {
-  "file": "tt/servo_arduino_v1.mp4",
-  "cover_ms": 45500
- },
- "mcu_gpio_v1.mp4": {
-  "file": "tt/mcu_gpio_v1.mp4",
-  "cover_ms": 44066
+ "tailrotor_v1.mp4": {
+  "file": "tt/tailrotor_v1.mp4",
+  "cover_ms": 44933
  },
  "mcu_so_sanh_v1.mp4": {
   "file": "tt/mcu_so_sanh_v1.mp4",
   "cover_ms": 67577
  },
- "laplace_dong_co_v1.mp4": {
-  "file": "tt/laplace_dong_co_v1.mp4",
-  "cover_ms": 52500
- },
- "dk_ham_truyen_v1.mp4": {
-  "file": "tt/dk_ham_truyen_v1.mp4",
-  "cover_ms": 43933
- },
- "lipo_v1.mp4": {
-  "file": "tt/lipo_v1.mp4",
-  "cover_ms": 43133
- },
- "rth_v1.mp4": {
-  "file": "tt/rth_v1.mp4",
-  "cover_ms": 45733
- },
- "washer_v1.mp4": {
-  "file": "tt/washer_v1.mp4",
-  "cover_ms": 43966
- },
- "laplace_pid_drone_v1.mp4": {
-  "file": "tt/laplace_pid_drone_v1.mp4",
-  "cover_ms": 57233
- },
- "athenazero_rai_v1.mp4": {
-  "file": "tt/athenazero_rai_v1.mp4",
-  "cover_ms": 59769
+ "dk_pid_tung_khau_v1.mp4": {
+  "file": "tt/dk_pid_tung_khau_v1.mp4",
+  "cover_ms": 53000
  },
  "prop_balance_v1.mp4": {
   "file": "tt/prop_balance_v1.mp4",
   "cover_ms": 44866
  },
- "mcu_ngat_v1.mp4": {
-  "file": "tt/mcu_ngat_v1.mp4",
-  "cover_ms": 49700
+ "laplace_pid_drone_v1.mp4": {
+  "file": "tt/laplace_pid_drone_v1.mp4",
+  "cover_ms": 57233
  },
  "zmp_walk_v1.mp4": {
   "file": "tt/zmp_walk_v1.mp4",
   "cover_ms": 44833
  },
- "dk_bode_v1.mp4": {
-  "file": "tt/dk_bode_v1.mp4",
-  "cover_ms": 61466
+ "gimbal_v1.mp4": {
+  "file": "tt/gimbal_v1.mp4",
+  "cover_ms": 44700
+ },
+ "laplace_dong_co_v1.mp4": {
+  "file": "tt/laplace_dong_co_v1.mp4",
+  "cover_ms": 52500
+ },
+ "dk_vot_lo_v1.mp4": {
+  "file": "tt/dk_vot_lo_v1.mp4",
+  "cover_ms": 51333
+ },
+ "dk_ham_truyen_v1.mp4": {
+  "file": "tt/dk_ham_truyen_v1.mp4",
+  "cover_ms": 43933
+ },
+ "dk_pid_lab_v1.mp4": {
+  "file": "tt/dk_pid_lab_v1.mp4",
+  "cover_ms": 53433
+ },
+ "servo_arduino_v1.mp4": {
+  "file": "tt/servo_arduino_v1.mp4",
+  "cover_ms": 45500
+ },
+ "droneshow_v1.mp4": {
+  "file": "tt/droneshow_v1.mp4",
+  "cover_ms": 44166
+ },
+ "mcu_gpio_v1.mp4": {
+  "file": "tt/mcu_gpio_v1.mp4",
+  "cover_ms": 44066
+ },
+ "yaw_v1.mp4": {
+  "file": "tt/yaw_v1.mp4",
+  "cover_ms": 44600
+ },
+ "lipo_v1.mp4": {
+  "file": "tt/lipo_v1.mp4",
+  "cover_ms": 43133
+ },
+ "prop_size_v1.mp4": {
+  "file": "tt/prop_size_v1.mp4",
+  "cover_ms": 43566
+ },
+ "washer_v1.mp4": {
+  "file": "tt/washer_v1.mp4",
+  "cover_ms": 43966
+ },
+ "mcu_pwm_v1.mp4": {
+  "file": "tt/mcu_pwm_v1.mp4",
+  "cover_ms": 60409
+ },
+ "follow_me_v1.mp4": {
+  "file": "tt/follow_me_v1.mp4",
+  "cover_ms": 44966
+ },
+ "mcu_adc_v1.mp4": {
+  "file": "tt/mcu_adc_v1.mp4",
+  "cover_ms": 56733
+ },
+ "brushless_v1.mp4": {
+  "file": "tt/brushless_v1.mp4",
+  "cover_ms": 45033
+ },
+ "dk_dap_ung_bac_v1.mp4": {
+  "file": "tt/dk_dap_ung_bac_v1.mp4",
+  "cover_ms": 49566
+ },
+ "servo_sg90_v1.mp4": {
+  "file": "tt/servo_sg90_v1.mp4",
+  "cover_ms": 45400
+ },
+ "rth_v1.mp4": {
+  "file": "tt/rth_v1.mp4",
+  "cover_ms": 45733
  },
  "filter_v1.mp4": {
   "file": "tt/filter_v1.mp4",
@@ -75,100 +119,44 @@
   "file": "tt/drone_recap_v1.mp4",
   "cover_ms": 43800
  },
- "first_drone_v1.mp4": {
-  "file": "tt/first_drone_v1.mp4",
-  "cover_ms": 45300
- },
- "follow_me_v1.mp4": {
-  "file": "tt/follow_me_v1.mp4",
-  "cover_ms": 44966
- },
- "laplace_de_hieu_v1.mp4": {
-  "file": "tt/laplace_de_hieu_v1.mp4",
-  "cover_ms": 55844
- },
- "tailrotor_v1.mp4": {
-  "file": "tt/tailrotor_v1.mp4",
-  "cover_ms": 44933
- },
- "mcu_adc_v1.mp4": {
-  "file": "tt/mcu_adc_v1.mp4",
-  "cover_ms": 56733
- },
- "dk_on_dinh_v1.mp4": {
-  "file": "tt/dk_on_dinh_v1.mp4",
-  "cover_ms": 58340
- },
- "hold_altitude_v1.mp4": {
-  "file": "tt/hold_altitude_v1.mp4",
-  "cover_ms": 44933
- },
- "optical_flow_v1.mp4": {
-  "file": "tt/optical_flow_v1.mp4",
-  "cover_ms": 44833
- },
- "gearbox_v1.mp4": {
-  "file": "tt/gearbox_v1.mp4",
-  "cover_ms": 37070
- },
- "dk_dap_ung_bac_v1.mp4": {
-  "file": "tt/dk_dap_ung_bac_v1.mp4",
-  "cover_ms": 49566
+ "mcu_ngat_v1.mp4": {
+  "file": "tt/mcu_ngat_v1.mp4",
+  "cover_ms": 49700
  },
  "balance_v1.mp4": {
   "file": "tt/balance_v1.mp4",
   "cover_ms": 45033
  },
- "dk_pid_tung_khau_v1.mp4": {
-  "file": "tt/dk_pid_tung_khau_v1.mp4",
-  "cover_ms": 53000
+ "mcu_uart_i2c_v1.mp4": {
+  "file": "tt/mcu_uart_i2c_v1.mp4",
+  "cover_ms": 63801
  },
- "laplace_lo_trinh_v1.mp4": {
-  "file": "tt/laplace_lo_trinh_v1.mp4",
-  "cover_ms": 50041
+ "nvidia_rtx_spark_v1.mp4": {
+  "file": "tt/nvidia_rtx_spark_v1.mp4",
+  "cover_ms": 51500
  },
- "yaw_v1.mp4": {
-  "file": "tt/yaw_v1.mp4",
-  "cover_ms": 44600
- },
- "mcu_timer_v1.mp4": {
-  "file": "tt/mcu_timer_v1.mp4",
-  "cover_ms": 55000
+ "hold_altitude_v1.mp4": {
+  "file": "tt/hold_altitude_v1.mp4",
+  "cover_ms": 44933
  },
  "regen_brake_v1.mp4": {
   "file": "tt/regen_brake_v1.mp4",
   "cover_ms": 44666
  },
- "prop_size_v1.mp4": {
-  "file": "tt/prop_size_v1.mp4",
-  "cover_ms": 43566
- },
- "mcu_pwm_v1.mp4": {
-  "file": "tt/mcu_pwm_v1.mp4",
-  "cover_ms": 60409
- },
- "dk_vot_lo_v1.mp4": {
-  "file": "tt/dk_vot_lo_v1.mp4",
-  "cover_ms": 51333
- },
- "brushless_v1.mp4": {
-  "file": "tt/brushless_v1.mp4",
-  "cover_ms": 45033
- },
- "servo_sg90_v1.mp4": {
-  "file": "tt/servo_sg90_v1.mp4",
-  "cover_ms": 45400
- },
  "laplace_so_sanh_v1.mp4": {
   "file": "tt/laplace_so_sanh_v1.mp4",
   "cover_ms": 54000
  },
- "droneshow_v1.mp4": {
-  "file": "tt/droneshow_v1.mp4",
-  "cover_ms": 44166
+ "first_drone_v1.mp4": {
+  "file": "tt/first_drone_v1.mp4",
+  "cover_ms": 45300
  },
- "stepper_v1.mp4": {
-  "file": "tt/stepper_v1.mp4",
-  "cover_ms": 42233
+ "laplace_lo_trinh_v1.mp4": {
+  "file": "tt/laplace_lo_trinh_v1.mp4",
+  "cover_ms": 50041
+ },
+ "optical_flow_v1.mp4": {
+  "file": "tt/optical_flow_v1.mp4",
+  "cover_ms": 44833
  }
 }
