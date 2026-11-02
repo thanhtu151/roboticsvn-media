@@ -1,98 +1,98 @@
 {
- "f3_event_camera_v1.mp4": {
-  "file": "tt/f3_event_camera_v1.mp4",
-  "cover_ms": 49500
- },
- "dk_pid_tung_khau_v1.mp4": {
-  "file": "tt/dk_pid_tung_khau_v1.mp4",
-  "cover_ms": 44500
- },
- "gemini4_carbon_v1.mp4": {
-  "file": "tt/gemini4_carbon_v1.mp4",
-  "cover_ms": 56900
- },
- "zmp_walk_v1.mp4": {
-  "file": "tt/zmp_walk_v1.mp4",
-  "cover_ms": 44833
- },
- "mcu_uart_i2c_v1.mp4": {
-  "file": "tt/mcu_uart_i2c_v1.mp4",
-  "cover_ms": 44800
- },
- "dk_ham_truyen_v1.mp4": {
-  "file": "tt/dk_ham_truyen_v1.mp4",
-  "cover_ms": 43933
+ "genie4_deepmind_v1.mp4": {
+  "file": "tt/genie4_deepmind_v1.mp4",
+  "cover_ms": 57300
  },
  "mcu_ngat_v1.mp4": {
   "file": "tt/mcu_ngat_v1.mp4",
   "cover_ms": 44666
  },
- "mcu_adc_v1.mp4": {
-  "file": "tt/mcu_adc_v1.mp4",
-  "cover_ms": 44366
- },
- "dk_vot_lo_v1.mp4": {
-  "file": "tt/dk_vot_lo_v1.mp4",
+ "dk_ham_truyen_v1.mp4": {
+  "file": "tt/dk_ham_truyen_v1.mp4",
   "cover_ms": 43933
  },
- "genie4_deepmind_v1.mp4": {
-  "file": "tt/genie4_deepmind_v1.mp4",
-  "cover_ms": 57300
- },
- "mcu_so_sanh_v1.mp4": {
-  "file": "tt/mcu_so_sanh_v1.mp4",
-  "cover_ms": 44733
- },
- "meta_fourier_humanoid_v1.mp4": {
-  "file": "tt/meta_fourier_humanoid_v1.mp4",
-  "cover_ms": 55481
- },
- "mcu_pwm_v1.mp4": {
-  "file": "tt/mcu_pwm_v1.mp4",
-  "cover_ms": 43933
- },
- "dk_pid_lab_v1.mp4": {
-  "file": "tt/dk_pid_lab_v1.mp4",
-  "cover_ms": 44600
- },
- "dk_dap_ung_bac_v1.mp4": {
-  "file": "tt/dk_dap_ung_bac_v1.mp4",
-  "cover_ms": 43966
- },
- "mcu_gpio_v1.mp4": {
-  "file": "tt/mcu_gpio_v1.mp4",
-  "cover_ms": 44066
- },
- "droneshow_v1.mp4": {
-  "file": "tt/droneshow_v1.mp4",
-  "cover_ms": 44166
- },
- "dk_bode_v1.mp4": {
-  "file": "tt/dk_bode_v1.mp4",
-  "cover_ms": 43200
- },
- "mcu_timer_v1.mp4": {
-  "file": "tt/mcu_timer_v1.mp4",
-  "cover_ms": 44066
+ "f3_event_camera_v1.mp4": {
+  "file": "tt/f3_event_camera_v1.mp4",
+  "cover_ms": 49500
  },
  "dk_on_dinh_v1.mp4": {
   "file": "tt/dk_on_dinh_v1.mp4",
   "cover_ms": 43900
  },
+ "bleu_robotics_v1.mp4": {
+  "file": "tt/bleu_robotics_v1.mp4",
+  "cover_ms": 48833
+ },
+ "mcu_uart_i2c_v1.mp4": {
+  "file": "tt/mcu_uart_i2c_v1.mp4",
+  "cover_ms": 44800
+ },
+ "dk_vot_lo_v1.mp4": {
+  "file": "tt/dk_vot_lo_v1.mp4",
+  "cover_ms": 43933
+ },
  "servo_sg90_v1.mp4": {
   "file": "tt/servo_sg90_v1.mp4",
   "cover_ms": 45400
- },
- "regen_brake_v1.mp4": {
-  "file": "tt/regen_brake_v1.mp4",
-  "cover_ms": 44666
  },
  "servo_arduino_v1.mp4": {
   "file": "tt/servo_arduino_v1.mp4",
   "cover_ms": 45500
  },
- "bleu_robotics_v1.mp4": {
-  "file": "tt/bleu_robotics_v1.mp4",
-  "cover_ms": 48833
+ "gemini4_carbon_v1.mp4": {
+  "file": "tt/gemini4_carbon_v1.mp4",
+  "cover_ms": 56900
+ },
+ "deepseek_super_agent_v1.mp4": {
+  "file": "tt/deepseek_super_agent_v1.mp4",
+  "cover_ms": 54073
+ },
+ "dk_bode_v1.mp4": {
+  "file": "tt/dk_bode_v1.mp4",
+  "cover_ms": 43200
+ },
+ "mcu_gpio_v1.mp4": {
+  "file": "tt/mcu_gpio_v1.mp4",
+  "cover_ms": 44066
+ },
+ "dk_dap_ung_bac_v1.mp4": {
+  "file": "tt/dk_dap_ung_bac_v1.mp4",
+  "cover_ms": 43966
+ },
+ "dk_pid_lab_v1.mp4": {
+  "file": "tt/dk_pid_lab_v1.mp4",
+  "cover_ms": 44600
+ },
+ "mcu_pwm_v1.mp4": {
+  "file": "tt/mcu_pwm_v1.mp4",
+  "cover_ms": 43933
+ },
+ "dk_pid_tung_khau_v1.mp4": {
+  "file": "tt/dk_pid_tung_khau_v1.mp4",
+  "cover_ms": 44500
+ },
+ "mcu_timer_v1.mp4": {
+  "file": "tt/mcu_timer_v1.mp4",
+  "cover_ms": 44066
+ },
+ "mcu_adc_v1.mp4": {
+  "file": "tt/mcu_adc_v1.mp4",
+  "cover_ms": 44366
+ },
+ "droneshow_v1.mp4": {
+  "file": "tt/droneshow_v1.mp4",
+  "cover_ms": 44166
+ },
+ "meta_fourier_humanoid_v1.mp4": {
+  "file": "tt/meta_fourier_humanoid_v1.mp4",
+  "cover_ms": 55481
+ },
+ "mcu_so_sanh_v1.mp4": {
+  "file": "tt/mcu_so_sanh_v1.mp4",
+  "cover_ms": 44733
+ },
+ "zmp_walk_v1.mp4": {
+  "file": "tt/zmp_walk_v1.mp4",
+  "cover_ms": 44833
  }
 }
