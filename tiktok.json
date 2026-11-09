@@ -1,24 +1,4 @@
 {
- "mcu_timer_v1.mp4": {
-  "file": "tt/mcu_timer_v1.mp4",
-  "cover_ms": 44066
- },
- "mcu_so_sanh_v1.mp4": {
-  "file": "tt/mcu_so_sanh_v1.mp4",
-  "cover_ms": 44733
- },
- "embodied_ai_air_v1.mp4": {
-  "file": "tt/embodied_ai_air_v1.mp4",
-  "cover_ms": 59044
- },
- "mcu_pwm_v1.mp4": {
-  "file": "tt/mcu_pwm_v1.mp4",
-  "cover_ms": 43933
- },
- "meta_muse_spaces_v1.mp4": {
-  "file": "tt/meta_muse_spaces_v1.mp4",
-  "cover_ms": 45766
- },
  "anthropic_quantum_v1.mp4": {
   "file": "tt/anthropic_quantum_v1.mp4",
   "cover_ms": 58276
@@ -27,44 +7,56 @@
   "file": "tt/mcu_adc_v1.mp4",
   "cover_ms": 44366
  },
- "mcu_ngat_v1.mp4": {
-  "file": "tt/mcu_ngat_v1.mp4",
-  "cover_ms": 44666
+ "figure03_hq_v1.mp4": {
+  "file": "tt/figure03_hq_v1.mp4",
+  "cover_ms": 61710
  },
- "dk_on_dinh_v1.mp4": {
-  "file": "tt/dk_on_dinh_v1.mp4",
-  "cover_ms": 43900
- },
- "dk_pid_lab_v1.mp4": {
-  "file": "tt/dk_pid_lab_v1.mp4",
-  "cover_ms": 44600
- },
- "mcu_uart_i2c_v1.mp4": {
-  "file": "tt/mcu_uart_i2c_v1.mp4",
-  "cover_ms": 44800
- },
- "dk_vot_lo_v1.mp4": {
-  "file": "tt/dk_vot_lo_v1.mp4",
-  "cover_ms": 43933
- },
- "gemini_omni_flash_v1.mp4": {
-  "file": "tt/gemini_omni_flash_v1.mp4",
-  "cover_ms": 45666
+ "mcu_timer_v1.mp4": {
+  "file": "tt/mcu_timer_v1.mp4",
+  "cover_ms": 44066
  },
  "mcu_gpio_v1.mp4": {
   "file": "tt/mcu_gpio_v1.mp4",
   "cover_ms": 44066
  },
+ "dk_pid_lab_v1.mp4": {
+  "file": "tt/dk_pid_lab_v1.mp4",
+  "cover_ms": 44600
+ },
+ "meta_muse_spaces_v1.mp4": {
+  "file": "tt/meta_muse_spaces_v1.mp4",
+  "cover_ms": 45766
+ },
+ "dk_on_dinh_v1.mp4": {
+  "file": "tt/dk_on_dinh_v1.mp4",
+  "cover_ms": 43900
+ },
+ "mcu_so_sanh_v1.mp4": {
+  "file": "tt/mcu_so_sanh_v1.mp4",
+  "cover_ms": 44733
+ },
  "dk_bode_v1.mp4": {
   "file": "tt/dk_bode_v1.mp4",
   "cover_ms": 43200
  },
- "figure03_hq_v1.mp4": {
-  "file": "tt/figure03_hq_v1.mp4",
-  "cover_ms": 61710
+ "embodied_ai_air_v1.mp4": {
+  "file": "tt/embodied_ai_air_v1.mp4",
+  "cover_ms": 59044
  },
- "robocolosseum_v1.mp4": {
-  "file": "tt/robocolosseum_v1.mp4",
-  "cover_ms": 55737
+ "gemini_omni_flash_v1.mp4": {
+  "file": "tt/gemini_omni_flash_v1.mp4",
+  "cover_ms": 45666
+ },
+ "mcu_ngat_v1.mp4": {
+  "file": "tt/mcu_ngat_v1.mp4",
+  "cover_ms": 44666
+ },
+ "mcu_pwm_v1.mp4": {
+  "file": "tt/mcu_pwm_v1.mp4",
+  "cover_ms": 43933
+ },
+ "mcu_uart_i2c_v1.mp4": {
+  "file": "tt/mcu_uart_i2c_v1.mp4",
+  "cover_ms": 44800
  }
 }
