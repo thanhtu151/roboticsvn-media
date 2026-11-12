@@ -1,54 +1,46 @@
 {
- "mcu_so_sanh_v1.mp4": {
-  "file": "tt/mcu_so_sanh_v1.mp4",
-  "cover_ms": 44733
+ "mcu_uart_i2c_v1.mp4": {
+  "file": "tt/mcu_uart_i2c_v1.mp4",
+  "cover_ms": 44800
  },
- "llama_modchip_v2.mp4": {
-  "file": "tt/llama_modchip_v2.mp4",
-  "cover_ms": 56782
- },
- "mcu_gpio_v1.mp4": {
-  "file": "tt/mcu_gpio_v1.mp4",
-  "cover_ms": 44066
- },
- "mcu_ngat_v1.mp4": {
-  "file": "tt/mcu_ngat_v1.mp4",
-  "cover_ms": 44666
- },
- "figure03_hq_v1.mp4": {
-  "file": "tt/figure03_hq_v1.mp4",
-  "cover_ms": 61710
- },
- "mcu_timer_v1.mp4": {
-  "file": "tt/mcu_timer_v1.mp4",
-  "cover_ms": 44066
- },
- "anthropic_quantum_v1.mp4": {
-  "file": "tt/anthropic_quantum_v1.mp4",
-  "cover_ms": 58276
- },
- "mcu_adc_v1.mp4": {
-  "file": "tt/mcu_adc_v1.mp4",
-  "cover_ms": 44366
- },
- "mcu_pwm_v1.mp4": {
-  "file": "tt/mcu_pwm_v1.mp4",
-  "cover_ms": 43933
+ "gemini_decisions_api_v1.mp4": {
+  "file": "tt/gemini_decisions_api_v1.mp4",
+  "cover_ms": 54478
  },
  "ring_security_drone_v1.mp4": {
   "file": "tt/ring_security_drone_v1.mp4",
   "cover_ms": 51800
  },
- "dk_pid_lab_v1.mp4": {
-  "file": "tt/dk_pid_lab_v1.mp4",
-  "cover_ms": 44600
- },
- "mcu_uart_i2c_v1.mp4": {
-  "file": "tt/mcu_uart_i2c_v1.mp4",
-  "cover_ms": 44800
+ "llama_modchip_v2.mp4": {
+  "file": "tt/llama_modchip_v2.mp4",
+  "cover_ms": 56782
  },
  "claude_fable_mythos_52_v1.mp4": {
   "file": "tt/claude_fable_mythos_52_v1.mp4",
   "cover_ms": 59812
+ },
+ "mcu_timer_v1.mp4": {
+  "file": "tt/mcu_timer_v1.mp4",
+  "cover_ms": 44066
+ },
+ "mcu_so_sanh_v1.mp4": {
+  "file": "tt/mcu_so_sanh_v1.mp4",
+  "cover_ms": 44733
+ },
+ "mcu_pwm_v1.mp4": {
+  "file": "tt/mcu_pwm_v1.mp4",
+  "cover_ms": 43933
+ },
+ "mcu_ngat_v1.mp4": {
+  "file": "tt/mcu_ngat_v1.mp4",
+  "cover_ms": 44666
+ },
+ "mcu_gpio_v1.mp4": {
+  "file": "tt/mcu_gpio_v1.mp4",
+  "cover_ms": 44066
+ },
+ "mcu_adc_v1.mp4": {
+  "file": "tt/mcu_adc_v1.mp4",
+  "cover_ms": 44366
  }
 }
